@@ -9,7 +9,7 @@ import re
 from dateutil.relativedelta import relativedelta
 import vk_api
 
-login, password = '79169686822', 'bios88005553535bios'
+login
 vk_session = vk_api.VkApi(login, password)
 
 try:
